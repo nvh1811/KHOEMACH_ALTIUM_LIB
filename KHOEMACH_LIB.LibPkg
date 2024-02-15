@@ -73,6 +73,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MZPIWLEW
 
+[Generic_IntLibOptions]
+OldFormat=False
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
